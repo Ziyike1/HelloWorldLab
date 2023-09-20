@@ -10,7 +10,6 @@ This is a simple Android app that provides the following functionality:
 
 ## Screenshots
 
-Include screenshots or images of your app in action here.
 ![img.png](img.png)
 
 ## Features
