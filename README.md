@@ -11,6 +11,7 @@ This is a simple Android app that provides the following functionality:
 ## Screenshots
 This is what the code looks like:
 ![img.png](img.png)
+
 This is the running app looks like:
 ![img_1.png](img_1.png)
 
